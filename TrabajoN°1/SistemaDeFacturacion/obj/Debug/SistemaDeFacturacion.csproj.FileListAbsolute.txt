@@ -1,0 +1,11 @@
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\bin\Debug\SistemaDeFacturacion.exe.config
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\bin\Debug\SistemaDeFacturacion.exe
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\bin\Debug\SistemaDeFacturacion.pdb
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.csprojAssemblyReference.cache
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.Form1.resources
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.Properties.Resources.resources
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.csproj.GenerateResource.cache
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.exe
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.pdb
+C:\Users\asus\Escritorio\TrabajoN°1\SistemaDeFacturacion\obj\Debug\SistemaDeFacturacion.Form2.resources
